@@ -21,7 +21,7 @@
 
 ## 类的方法
 
-### `curlRequest($url, $post = '', $cookie = '', $returnCookie = 1)`
+### curlRequest($url, $post = '', $cookie = '', $returnCookie = 1)
 
 - 说明: 对 cURL 的封装，方便使用
 
@@ -55,7 +55,7 @@
 
 ```
 
-### `post($user, $password)`
+### post($user, $password)
 
 - 说明: 发送登录请求
 
