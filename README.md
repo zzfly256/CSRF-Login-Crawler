@@ -93,6 +93,6 @@ $loginPageUrl, $loginTargetUrl, $contentUrl, $refererUrl
 | refererUrl | referer 来源 | 否 | "http://127.0.0.1/" |
 
 ## 如何使用
-![img](http://wx2.sinaimg.cn/large/d3ea10bdgy1fuhhmkkg1vj20mb09idgf.jpg)
+![img](http://wx2.sinaimg.cn/large/d3ea10bdgy1fuhiczjtxoj20mb09igm5.jpg)
 
 - 源码请参照 demo.php
